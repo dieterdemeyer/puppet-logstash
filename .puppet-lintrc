@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 --no-80chars-check
+=======
+--no-80chars-check --no-class_inherits_from_params_class-check
+>>>>>>> abd591ded39bb820b0d5bbc79e7ceac875dab2cb
